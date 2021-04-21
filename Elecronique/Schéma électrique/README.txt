@@ -1,0 +1,2 @@
+- La breadboard n'est pas représente sur le schéma (les pont en H sont branchés dessus ainsi que les masses de chaque bumper). 
+- Le PCB couronne pour les capteurs IR n'est pas représenté sur le schéma.
