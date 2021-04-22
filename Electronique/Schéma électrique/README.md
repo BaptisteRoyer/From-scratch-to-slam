@@ -1,0 +1,3 @@
+- La breadboard n'est pas représente sur le schéma (les pont en H sont branchés dessus ainsi que les masses de chaque bumper). 
+- Le PCB couronne pour les capteurs IR n'est pas représenté sur le schéma.
+- La batterie a les caractéristiques suivantes : 11.1 V, 5Ah, 50C.

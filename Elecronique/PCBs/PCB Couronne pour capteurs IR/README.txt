@@ -1,1 +1,0 @@
-La couronne pour les capteurs IR est divisée en deux, vous trouverez les deux parties dans ce dossier.
